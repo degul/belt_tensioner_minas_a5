@@ -27,6 +27,9 @@
 
 ---
 # pcb
+- Gerber download link 
+https://github.com/degul/belt_tensioner_minas_a5/raw/refs/heads/main/files/Gerber_Belt-sfx100_PCB_Belt-sfx100_2026-06-04.zip
+
 <img src="https://raw.githubusercontent.com/degul/belt_tensioner_minas_a5/refs/heads/main/files/pcb.png">
 
 --- 
