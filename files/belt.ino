@@ -194,7 +194,7 @@ void Calibrate() {
  
     m1Target = m1Position - 1; 
     m2Target = m2Position - 1; 
-    if (millis() - homeStartTime >= 2000)
+    if (millis() - homeStartTime >= 1000)
     { 
         m1Position = 0;
         m2Position = 0; 
